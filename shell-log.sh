@@ -4,7 +4,7 @@
 # DESCRIPTION
 #   A tiny cross platform & cross shell, log4j alike, logging library.
 # AUTHOR
-#   Craig J Perry <craigp84@gmail.com>
+#   Craig J Perry <capped@github>
 # DEPENDENCIES
 #  Operating System: Works on MacOS, Linux, Solaris & Cygwin
 #  Shell: bash preferred. Also works with at least sh, ksh93 & pdksh
