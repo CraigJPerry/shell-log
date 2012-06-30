@@ -5,17 +5,17 @@ A tiny cross platform & cross shell, log4j alike, logging library.
 
 The benefits over simple `echo` statements in your script are:
 
--   Automatically provides _timestamps_ and _severity levels_ to your logfile
+-   Automatically provides **timestamps** and **severity levels** to your logfile
     entries.
--   Includes the source _hostname_, essential in multi host environments.
--   Automatically redirects _output to stderr_ for easy filtering of your
+-   Includes the source **hostname**, essential in multi host environments.
+-   Automatically redirects **output to stderr** for easy filtering of your
     script's output and it's logging.
--   Contains _source script filename_, which is great if your script calls other
+-   Contains **source script filename**, which is great if your script calls other
     scripts, a common occurance in a mature operations environment.
     across smaller scripts.
 -   Unlike other shell logging libraries, this works across platforms such as
-    _MacOS_, _Linux_, _Solaris_ and _Cygwin_. It also works across bourne compatible
-    shells: _sh_, _bash_, _ksh_ (both pdksh & ksh93).
+    **MacOS**, **Linux**, **Solaris** and **Cygwin**. It also works across bourne compatible
+    shells: **sh**, **bash**, **ksh** (both pdksh & ksh93).
 
 Usage
 -----
