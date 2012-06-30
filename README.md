@@ -31,3 +31,8 @@ The output for these examples is:
     2012-06-30 16:09:57 [Craigs-Mac-Pro.local] INFO (test.sh) This is an info message
     2012-06-30 16:09:57 [Craigs-Mac-Pro.local] WARN (test.sh) This is a warning message
 
+Alternative Usage
+-----------------
+
+You can simply paste the entire contents of shell-log.sh into your script.
+
